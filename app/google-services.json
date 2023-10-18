@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80353657938",
+    "project_id": "poly-pravara",
+    "storage_bucket": "poly-pravara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80353657938:android:b6f1c91c260e6a3c9bcb8b",
+        "android_client_info": {
+          "package_name": "com.codexdroid.polypravara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNu6jNZFBjJ_Q6rkYwaWi8Ls2y0hXzQVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
